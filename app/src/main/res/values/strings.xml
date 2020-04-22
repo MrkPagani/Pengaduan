@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">LAPAR</string>
+    <string name="subtitle">Layanan Aplikasi Pengaduan Aspirasi Rakyat</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <!--form-->
+    <string name="username">Username</string>
+    <string name="nama">Nama</string>
+    <string name="password">Password</string>
+    <string name="nik">Nik</string>
+    <string name="email">Email</string>
+    <!-- Data-->
+    <string name="Pengaduan">Pengaduan</string>
+    <string name="user">M.Rifki Firmansah</string>
+    <string name="title">Kerusakan Jalan</string>
+    <string name="content">Kerusakan di jalan tongkeng</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="proses">
+        <item>Belum</item>
+        <item>Dalam Proses</item>
+        <item>Selesai</item>
+    </string-array>
+
+    <string-array name="level">
+        <item>Admin</item>
+        <item>Petugas</item>
+    </string-array>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="isi">Kerusakan jalan di sekitaran jalan tongkeng dimohon kepada pemerintah segera diperbaiki karena kerusakan ini dapat menyebabkan kecelakaan terima kasih</string>
+    <string name="date">24 Februari 2015</string>
+    <string name="NIK">1718117197</string>
+    <string name="telp">No Telp</string>
+    <string name="about">About</string>
+    <string name="Copyright">© 2020 Muhamad Rifki Firmansah</string>
+</resources>
+

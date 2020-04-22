@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/add" android:title="Tambah Data" android:icon="@drawable/ic_add_circle_black_24dp"/>
+    <item android:id="@+id/about" android:title="About" android:icon="@drawable/ic_info_black_24dp" android:iconTint="@color/colorAccent"/>
+    <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_subdirectory_arrow_left_black_24dp" android:iconTint="@color/colorAccent"/>
+</menu>
